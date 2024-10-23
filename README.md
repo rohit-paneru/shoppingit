@@ -1,7 +1,7 @@
 <h1 align="center">Ecommerce made with Node.js - MVC</h1>
 
 <p align="center">	
-   <a href="https://www.linkedin.com/in/rohit-paneru/">
+   <a href="https://www.linkedin.com/in/rohit-paneru-636b5627a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
       <img alt="Rohit Paneru" src="https://img.shields.io/badge/-RohitPaneru-03B0E8?style=flat&logo=Linkedin&logoColor=white" />
    </a>
   <a href="https://github.com/rohit-paneru/shoppingIt#readme">
